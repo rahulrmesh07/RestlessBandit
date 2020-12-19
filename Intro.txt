@@ -1,3 +1,5 @@
 
 
 This is summary of all code on restless bandit
+
+We restless bandits using Monte Carlo
