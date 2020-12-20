@@ -5,3 +5,12 @@ This is summary of all code on restless bandit
 We restless bandits using Monte Carlo
 
 Restless bandits for recommendation system
+
+
+New research directions: 
+
+* Learning of Mobile Manipulation and Grasping;
+
+* Human-robot interaction and learning for Human-robot object handovers;
+
+* Learning in Task and Motion Planning of Long-horizon assistive tasks.
